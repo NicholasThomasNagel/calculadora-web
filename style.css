@@ -1,0 +1,104 @@
+.calculadora{
+width: 400px;
+height: 550px;
+background-color: #ccc;
+padding: 14px;
+}
+
+.resultado{
+background-color: white;
+text-align: right;
+width: 382px;
+height: 57 px;
+font-size: 50px;
+margin: 10px;
+color: grey;
+}
+
+.numeral{
+background-color: rgba(255, 255, 255, 0.76);
+box-shadow: 0 8px 16px 0 black;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+width: 114px;
+height: 57px;
+margin: 8px;
+cursor: pointer;
+}
+
+.virgula{
+    background-color: rgba(255, 255, 255, 0.76);
+box-shadow: 0 8px 16px 0 black;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+width: 114px;
+height: 57px;
+margin: 8px;
+cursor: pointer;
+}
+
+.MM{
+    background-color: rgba(255, 255, 255, 0.76);
+box-shadow: 0 8px 16px 0 black;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+width: 114px;
+height: 57px;
+margin: 8px;
+cursor: pointer;
+}
+
+.MD{
+    background-color: rgba(255, 255, 255, 0.76);
+box-shadow: 0 8px 16px 0 black;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+width: 114px;
+height: 57px;
+margin: 8px;
+cursor: pointer;
+}
+
+.igual{
+    background-color: rgba(255, 255, 255, 0.76);
+box-shadow: 0 8px 16px 0 black;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+width: 114px;
+height: 57px;
+margin: 8px;
+cursor: pointer;
+
+}
+
+.clear{
+    background-color: rgba(255, 255, 255, 0.76);
+box-shadow: 0 8px 16px 0 black;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+width: 114px;
+height: 57px;
+margin: 8px;
+cursor: pointer;
+color: red;
+}
+
+.back{
+    background-color: rgba(255, 255, 255, 0.76);
+    box-shadow: 0 8px 16px 0 black;
+    opacity: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    width: 114px;
+    height: 57px;
+    margin: 8px;
+    cursor: not-allowed;
+    color: red;
+}
